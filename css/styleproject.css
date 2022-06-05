@@ -1,0 +1,38 @@
+body{
+    background-color: #FBEEE6;
+}
+
+#pro1, #pro2{
+    text-align: center;
+}
+
+#pro1{
+    color: #DC7633;
+}
+
+#pro2{
+    color: #E59866;
+}
+
+div{
+    text-align: center;
+}
+
+img{
+    height: 250px;
+}
+
+#pro3{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ject1{
+    width: 30%;
+    height: 50px;
+    /* background-color: bisque; */
+    text-align: right;
+    font-weight: bold;
+    color: #E59866;
+}
